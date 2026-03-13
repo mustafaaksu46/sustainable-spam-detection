@@ -1,12 +1,12 @@
-# Beyond Accuracy: A Multi-Dimensional Green AI Framework
+# Beyond Accuracy: A Multi-Dimensional Green AI Framework for SMS Spam Detection
 
-This repository contains the official implementation and data for evaluating **SMS Spam Detection** through the lens of **Green AI**. Unlike traditional studies that focus solely on accuracy, this framework analyzes the trade-offs between predictive performance, operational efficiency, and environmental impact.
+This repository provides the official implementation and experimental setup for evaluating SMS Spam Detection through the lens of Green AI. Unlike traditional studies that focus solely on accuracy, this framework analyzes the trade-offs between predictive performance, operational efficiency, and environmental impact.
 
 ##  Key Highlights
 * **Multi-Model Analysis:** Comparison of 10 different architectures (Classical ML, Ensembles, and Transformers).
 * **Green Metrics:** Real-time tracking of **CO₂ emissions** and **energy consumption** using CodeCarbon.
-* **Hardware Efficiency:** Evaluation of p95 latency, memory footprint, and model size.
-* **Decision Matrix:** A comprehensive guide for choosing models based on deployment scenarios (Mobile, IoT, Cloud).
+* **Hardware Efficiency:** Evaluation of p95 latency (95th percentile latency), memory footprint, and model size.
+* **Decision Matrix:** A decision matrix for selecting models based on deployment scenarios (Mobile, IoT, Cloud).
 
 ##  Evaluation Metrics
 We go beyond F1 and MCC scores to include:
