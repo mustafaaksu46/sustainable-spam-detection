@@ -3,7 +3,7 @@
 This repository provides the official implementation and experimental setup for evaluating SMS Spam Detection through the lens of Green AI. Unlike traditional studies that focus solely on accuracy, this framework analyzes the trade-offs between predictive performance, operational efficiency, and environmental impact.
 
 ##  Key Highlights
-* **Multi-Model Analysis:** Comparison of 10 different architectures, including Classical ML, Ensemble methods, and Deep Learning (Transformers).
+* **Multi-Model Analysis:** Comparison of 10 different models (Classical ML, Ensembles, and Deep Learning – Transformers).
 * **Green Metrics:** Real-time tracking of **CO₂ emissions** and **energy consumption** using CodeCarbon.
 * **Hardware Efficiency:** Evaluation of p95 latency (95th percentile latency), memory footprint, and model size.
 * **Decision Matrix:** A decision matrix for selecting models based on deployment scenarios (Mobile, IoT, Cloud).
